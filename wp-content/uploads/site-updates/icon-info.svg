@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="pricing_v4_grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-929.000000, -468.000000)">
+        <path d="M935,475 L935,472 L934,472 L932,472 L932,473 L933,473 L933,475 L932,475 L932,476 L933,476 L935,476 L936,476 L936,475 L935,475 Z M934,478 C931.238576,478 929,475.761424 929,473 C929,470.238576 931.238576,468 934,468 C936.761424,468 939,470.238576 939,473 C939,475.761424 936.761424,478 934,478 Z M934,469.5 C933.447715,469.5 933,469.947715 933,470.5 C933,471.052285 933.447715,471.5 934,471.5 C934.552285,471.5 935,471.052285 935,470.5 C935,469.947715 934.552285,469.5 934,469.5 Z" id="Combined-Shape" fill="#D7DEE6"></path>
+    </g>
+</svg>

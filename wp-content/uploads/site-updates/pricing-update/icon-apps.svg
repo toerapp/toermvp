@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="24px" viewBox="0 0 23 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="24" rx="2"></rect>
+        <rect id="path-2" x="2" y="2" width="12" height="18" rx="1"></rect>
+    </defs>
+    <g id="team_pricing_v6_socproof11" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-489.000000, -728.000000)">
+        <g id="Group" transform="translate(488.000000, 631.000000)">
+            <g id="Group-18">
+                <g id="Group-17" transform="translate(1.000000, 97.000000)">
+                    <g id="Group-11">
+                        <g id="Rectangle-9">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#4A4A4A" stroke-width="1" x="0.5" y="0.5" width="15" height="23" rx="2"></rect>
+                        </g>
+                        <g id="Rectangle-9">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <rect stroke="#4A4A4A" stroke-width="1" x="2.5" y="2.5" width="11" height="17" rx="1"></rect>
+                        </g>
+                        <rect id="Rectangle-10" fill="#FFFFFF" x="8.37712021" y="13.5" width="12" height="3" rx="1.5"></rect>
+                        <rect id="Rectangle-10" fill="#FFFFFF" x="8.37712021" y="8.5" width="12" height="3" rx="1.5"></rect>
+                        <path d="M8.08581696,10.5 L9.35199394,11.766177 C9.54725609,11.9614391 9.54725609,12.2780216 9.35199394,12.4732838 C9.1567318,12.6685459 8.84014931,12.6685459 8.64488716,12.4732838 L6.52356682,10.3519634 C6.32830467,10.1567013 6.32830467,9.84011879 6.52356682,9.64485664 L8.64488716,7.5235363 C8.84014931,7.32827415 9.1567318,7.32827415 9.35199394,7.5235363 C9.54725609,7.71879845 9.54725609,8.03538094 9.35199394,8.23064308 L8.08263703,9.5 L18.5,9.5 C18.7761424,9.5 19,9.72385763 19,10 C19,10.2761424 18.7761424,10.5 18.5,10.5 L8.08581696,10.5 Z" id="Combined-Shape" fill="#394F5A"></path>
+                        <path d="M12.085817,15.5 L13.3519939,16.766177 C13.5472561,16.9614391 13.5472561,17.2780216 13.3519939,17.4732838 C13.1567318,17.6685459 12.8401493,17.6685459 12.6448872,17.4732838 L10.5235668,15.3519634 C10.3283047,15.1567013 10.3283047,14.8401188 10.5235668,14.6448566 L12.6448872,12.5235363 C12.8401493,12.3282742 13.1567318,12.3282742 13.3519939,12.5235363 C13.5472561,12.7187984 13.5472561,13.0353809 13.3519939,13.2306431 L12.082637,14.5 L22.5,14.5 C22.7761424,14.5 23,14.7238576 23,15 C23,15.2761424 22.7761424,15.5 22.5,15.5 L12.085817,15.5 Z" id="Combined-Shape" fill="#394F5A" transform="translate(16.688560, 14.998410) scale(-1, 1) translate(-16.688560, -14.998410) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
